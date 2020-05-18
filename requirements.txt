@@ -1,0 +1,5 @@
+The libraris that are added/ used in this project are as follows:
+
+1) react-bootstrap - This connects react with bootstrap and allows to use the primary bootstrapclasses to provide wide level of styling.
+
+2) react-date-picker - This helps by providing a predesigned date picker for which different type of methods and attributes are available that can be leveraged based on the project requirements.
