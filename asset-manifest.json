@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/investmentCalculator/static/css/main.021c415e.chunk.css",
+    "main.js": "/investmentCalculator/static/js/main.0657a29d.chunk.js",
+    "main.js.map": "/investmentCalculator/static/js/main.0657a29d.chunk.js.map",
+    "runtime-main.js": "/investmentCalculator/static/js/runtime-main.8006a293.js",
+    "runtime-main.js.map": "/investmentCalculator/static/js/runtime-main.8006a293.js.map",
+    "static/css/2.7c29dcd6.chunk.css": "/investmentCalculator/static/css/2.7c29dcd6.chunk.css",
+    "static/js/2.32343c40.chunk.js": "/investmentCalculator/static/js/2.32343c40.chunk.js",
+    "static/js/2.32343c40.chunk.js.map": "/investmentCalculator/static/js/2.32343c40.chunk.js.map",
+    "index.html": "/investmentCalculator/index.html",
+    "precache-manifest.aacf293fd87b61de3f1cd25edc6aa4ea.js": "/investmentCalculator/precache-manifest.aacf293fd87b61de3f1cd25edc6aa4ea.js",
+    "service-worker.js": "/investmentCalculator/service-worker.js",
+    "static/css/2.7c29dcd6.chunk.css.map": "/investmentCalculator/static/css/2.7c29dcd6.chunk.css.map",
+    "static/css/main.021c415e.chunk.css.map": "/investmentCalculator/static/css/main.021c415e.chunk.css.map",
+    "static/js/2.32343c40.chunk.js.LICENSE.txt": "/investmentCalculator/static/js/2.32343c40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8006a293.js",
+    "static/css/2.7c29dcd6.chunk.css",
+    "static/js/2.32343c40.chunk.js",
+    "static/css/main.021c415e.chunk.css",
+    "static/js/main.0657a29d.chunk.js"
+  ]
+}
